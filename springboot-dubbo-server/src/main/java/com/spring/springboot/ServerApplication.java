@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  
 /**
  * Spring Boot 应用启动类
- *
+ *  启动入口
  * Created by tz on 01/04/2017.
  */
 // Spring Boot 应用的标识
